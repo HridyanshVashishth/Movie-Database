@@ -71,14 +71,6 @@ You can replace it in `movie_database_script.js` with your own [TMDb API key](ht
 
 ---
 
-## 📸 Screenshots
-
-> *(Add GIF or screenshots here)*
-> Example:
-> ![Screenshot]((https://drive.google.com/file/d/1Mf2_21k-fea3lRvinf8kFUt-w8VxQK67/view?usp=sharing))
-
----
-
 ## 🧠 Technologies Used
 
 * HTML5
