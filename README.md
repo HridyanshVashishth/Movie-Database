@@ -75,7 +75,7 @@ You can replace it in `movie_database_script.js` with your own [TMDb API key](ht
 
 > *(Add GIF or screenshots here)*
 > Example:
-> ![Screenshot](https://via.placeholder.com/800x450?text=MovieHub+Preview)
+> ![Screenshot]((https://drive.google.com/file/d/1Mf2_21k-fea3lRvinf8kFUt-w8VxQK67/view?usp=sharing))
 
 ---
 
